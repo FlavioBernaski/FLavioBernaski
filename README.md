@@ -1,7 +1,8 @@
 <h1 align="center">Hello 👋, I'm Flávio</h1>
-- 👨‍🎓 Gratuated in Integrated IT Technician at the Federal Technological University of Paraná
 
-- 📙 Studying Computer Science at the Federal Technological University of Paran 
+- 🎓 Gratuated in Integrated IT Technician at the Federal Technological University of Paraná
+
+- 📙 Studying Computer Science at the Federal Technological University of Paraná
 
 - 🌱 I’m currently learning **about some JavaScript frameworks and Python as back-end**
 
